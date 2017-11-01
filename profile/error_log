@@ -1,0 +1,1 @@
+[01-Apr-2016 06:57:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/youni/public_html/profile/setpassword.php on line 10
